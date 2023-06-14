@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "sf6-combos-deluxe",
+    "slug": "sf6-combos-deluxe",
+    "extra": {
+      "eas": {
+        "projectId": "92bbf36d-6005-4a99-8bc1-65f21634430d"
+      }
+    },
+    "android": {
+      "package": "com.capcom_zhang.sf6combosdeluxe"
+    }
+  }
+}

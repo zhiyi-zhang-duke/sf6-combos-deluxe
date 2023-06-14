@@ -1,0 +1,36 @@
+{
+    "normalHitDamageOptimalLink": "5MP, 2MP",
+    "normalHit3hitLightConfirm": "2LK > 2LP > 2LP/5LP",
+    "4HPConversions": [
+        "4HP > 214P~LK",
+        "4HP > 214P~HK"
+    ],
+    "farPokeConversionsPart1": [
+        "5HP > 214P~LP",
+        "5HK > 214P~MK"
+    ],
+    "swiftThrustDriveConfirm": "4/6MP > 236KK~KK",
+    "counterHitAlternate5MPLink": "CH 5MP, 2MK/4MP",
+    "2MPCounterhitLinks": [
+        "CH 2LP/2MP, 2MP"
+    ],
+    "highDamageCHLinks": "CH 5LP/5MP > 4HP",
+    "farPokeConversionsPart2": "CH 5HP > 214P~LK",
+    "punishCounterSwiftThrust": "PC 4/6MP > 236HK",
+    "6HKLeadsToStuff": "PC 6HK > 4HP",
+    "pickingAnEnderSpinningBirdKick": [
+        "light normals/214P~LP > [2]8LK",
+        "medium normals/214P~LK/214P~MK > [2]8MK",
+        "heavy normals > [2]8HK"
+    ],
+    "pickingAnEnderHundredLightningKicks": [
+        "light buttons > 236LK",
+        "medium buttons > 236MK",
+        "heavy buttons > 236HK > juggle"
+    ],
+    "extendersMidscreenODSpinningBirdKick": "anything that combos into [2]8LK > [2]8KK > 22HK",
+    "extendersMidscreenHyokoSenExtension": [
+        "anything > 236236K > jc.2MK~2MK > j.236HK",
+        "anything > 236236K > sjc.2MK~2MK > j.HP~HP > 236236P"
+    ]
+}

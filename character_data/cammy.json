@@ -1,0 +1,25 @@
+{
+    "basicBnbCombosToUseWithCammy": [
+        "c.LK > c.LP XX DP HK",
+        "c.LK > c.LP XX QCF.KK > DP HK",
+        "MP > LK XX QCF.MK",
+        "MP > Back.MP-HK > j.MP XX QCB.KK [Air] > Level 1 Super"
+    ],
+    "simpleCammyCombosForModernControls": [
+        "Back.M > M XX Down.SP > SP",
+        "j.Auto+SP > Back.Medium > Medium > jump.Medium XX SP",
+        "Counter Hit Auto.M > Auto.H XX Cancel Drive Rush > Auto.H > Back Medium > Medium > j.Medium XX Auto+SP > Auto+SP > Down.SP+H"
+    ],
+    "driveMeterDriveImpactCombos": [
+        "DI > HP XX QCF.HK > DP HK",
+        "[On Block] DI > HP XX QCF.LK > DP HK"
+    ],
+    "whiffPunishPunishCounterAndCounterHitCombos": [
+        "MP/c.MP PC > HP XX QCF.HK",
+        "HP PC XX [QCF.HK] > DP HK"
+    ],
+    "credit": [
+        "https://www.sportskeeda.com/",
+        "Vesper Arcade"
+    ]
+}

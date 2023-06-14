@@ -1,0 +1,55 @@
+{
+    "targetCombos": ["LP~MP~HP"],
+    "meterlessCombos": [
+        "crLP/crLK, crLP, crLP xx QCB+LP",
+        "crLP, crLP xx DP+HP",
+        "sLP xx sMP xx sHP xx QCB+HP/DP+HP/QCF+HP",
+        "(Near corner) sLP xx sMP xx sHP xx QCF+HP, DP+LP",
+        "sLK xx QCB LP",
+        "crMP, crLP/sLK xx QCB+LP/DP+HP",
+        "sMP xx sMP xx sMP xx sMP",
+        "crMK xx crHP",
+        "sHP/crHP/bHP xx QCB+HP/DP+HP/QCF+HP",
+        "Spaced sHK, crLP xx QCB+LP/DP+HP",
+        "bHK, crLP xx QCB+LP/DP+HP",
+        "(Midscreen) crHP xx PF QCB+LP, QCB+MP/QCB+HP",
+        "(Near corner) crHP xx PF QCB+LP, QCF+HP, DP+HP",
+        "(Midscreen) crHP xx PF QCB+MP, PF QCB+LP, QCB+HP",
+        "fHP, fHP xx QCB+HP (if midscreen) or xx QCF+HP, DP+LP (near corner)"
+      ],
+      "driveImpactCombos": [
+        "(After a DI connects on a grounded opponent) (Midscreen) crHP xx PF QCB+MP, PF QCB+LP, QCB+HP",
+        "(After a DI connects on a grounded opponent) (Near corner) crHP xx PF QCB+LP, QCF+HP, DP+HP",
+        "(After a blocked DI wall splats near the corner) sHP xx PF QCB+LP, QCF+HP, DP+HP",
+        "(After a DI wall splats near the corner) crHP xx PF QCB+LP, QCF+HP, DP+HP"
+      ],
+      "overdriveCombosNoSuper": [
+        "(Midscreen) Any light confirm combo xx QCB+PP, QCB+LP/QCB+MP/DP+HP or PP/DDT",
+        "(Midscreen) sLP xx sMP xx sHP xx QCB+PP, QCB+HP",
+        "(Near corner) Any light confirm combo xx QCB+PP, QCF+LP, DP+LP or DDT",
+        "(Near corner) sLP xx sMP xx sHP xx QCF+PP, DP+HP or PP",
+        "(Midscreen) crMP, crLP xx QCB+PP, QCB+LP/QCB+MP/DP+HP or PP/DDT",
+        "(Near corner) crMP xx crLP xx QCB+PP, QCF+LP, DP+LP or DDT",
+        "(Midscreen) Any cancellable heavy normal xx QCB+PP, QCB+LP/QCB+MP/DP+HP or PP/DDT",
+        "(Near corner) Any cancellable heavy normal xx QCB+PP, QCF+LP, DP+LP or DDT",
+        "(Midscreen) fHP, fHP xx QCB PP, QCB+HP",
+        "(Corner) fHP, fHP xx QCB PP, QCF+HP, DP+LP"      
+      ],
+      "driveRushCombosNoSuper": [
+        "(Midscreen) Any cancellable light normal xx DR, crLP, crHP xx PF QCB+MP, PF QCB+LP, QCB+HP",
+        "(Near corner) Any cancellable light normal xx DR, crLP, crHP xx PF QCB+LP, QCF+HP, DP+HP",
+        "DR sLP, crMP, crLP xx QCB+LP",
+        "DR sLK, sLP xx sMP xx sHP xx special move",
+        "DR crLP, crMP xx QCB+LP/QCB+MP",
+        "sLP xx sMP xx sHP xx DR, immediate sLP xx DP+LP",
+        "crMP xx DR, crMP, crHP xx special move",
+        "crMK xx DR, crMP, crHP xx special move",
+        "DR sMP, crMP xx special move",
+        "DR fMP, crLP, crLP xx special move or DR fMP, crMP xx special move",
+        "Any cancellable heavy normal xx DR, bHK, crHP xx special move",
+        "DR sHK, crMP xx special move",
+        "(Midscreen) crHP xx PF QCB+MP, DR sHP xx PF QCB+LP, QCF+K, P or DR sHP xx PF QCB+HP",
+        "(Near corner) crHP xx PF QCB+LP, DR sHP xx QCF+HP, DP + HP",
+        "(Near corner) crHP xx PF QCB+LP, DR crHP xx QCF+KK, P, DP+MP"
+      ]      
+}

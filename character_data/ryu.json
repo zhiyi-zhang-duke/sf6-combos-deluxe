@@ -1,0 +1,86 @@
+{
+    "targetCombos": [
+        "HP~HK",
+        "MP~LK~HK"
+    ],
+    "meterlessCombos": [
+        "crLP, crLP, sLP xx QCB+LK/DP+HP", 
+        "crLK, crLK, sLP xx QCB+LK/DP+HP", 
+        "sLP, sLP, sLP xx QCB+LK/DP+HP", 
+        "crLK/crLP, sLP xx QCB+LK/DP+HP", 
+        "sLK xx QCB+LK/QCF+LK/QCF+HP/DP+HP",
+        "sMP, crMP xx QCB+MK or HK/DP+HP/QCF+MK/DJ QCB+P",
+        "sMP, bHP xx QCB+MK or HK/DP+HP/QCF+HK/DJ QCB+P",
+        "crMK xx QCB+MK or HK/DP+HP/QCF+HP/QCB+MP",
+        "sHK, crMK xx QCB+MK or HK/DP+HP/QCF+HP/QCB+MP",
+        "fHP, crMP xx QCB+MK or HK/DP+HP/QCF+MK/DJ QCB+P",
+        "(After a DI connects on a grounded opponent) sHK, crMK xx special move or fHP, crMP xx special move",
+        "(After a DI wall splats near the corner) crHP xx QCB+MP, DP+HP",
+        "(After a DI wall splats near the corner) crHP xx DJ QCB+P, jMP (2 hits) xx jQCB HK"
+    ],
+    "overdriveCombosNoSuper": [
+        "(Near corner) Any light confirm combo xx QCB+KK, DP+HP or PP",
+        "(Near corner) sLK xx QCB+KK, DP+HP or PP/QCF+LK",
+        "(Near corner) Any cancellable light normal xx QCB+KK, DR crMP xx QCB+MP, DP+HP or PP",
+        "(Midscreen) Any medium confirm combo xx QCF+KK, DP+HP or PP/QCB+MK or HK/QCF+MK",
+        "(Midscreen) crMK xx QCF+KK, DP+HP or PP/QCB+MK or HK/QCF+MK",
+        "(Near corner) Any cancellable medium normal xx QCB+KK, DP+HP or PP/QCF+LK",
+        "(Near corner) Any cancellable medium normal xx QCB+KK, DR crMP xx QCB+MP, DP+HP or PP",
+        "(Midscreen) Any heavy confirm combo xx QCF+KK, DP+HP or PP/QCB+MK or HK/QCF+MK",
+        "(Near corner) Any cancellable heavy normal xx QCB+KK, DP+HP or PP/QCF+LK",
+        "(Near corner) Any cancellable heavy normal xx QCB+KK, DR crMP xx QCB+MP, DP+HP or PP",
+        "(Near corner) fHK xx QCB+KK, DP+HP or PP"      
+    ],
+    "denjinChargedODHashogekiCombos": [
+        "Any cancellable medium/heavy normal xx DJ QCB+PP, crHP xx QCB+MK or HK/DP+HP/QCF+MK",
+        "(Midscreen) Any cancellable medium/heavy normal xx DJ QCB+PP, crHP xx QCF+KK, DP+HP or PP/QCB+MK or HK/QCF+MK",
+        "(Near corner) Any cancellable medium/heavy normal xx DJ QCB+PP, crHP xx QCB+KK, DP+HP or PP/QCF+LK"      
+    ],
+    "driveRushCombos": [
+        "Any cancellable light normal xx DR, sLP, bHP xx special move",
+        "Any DR light normal, sMP confirm or bHP xx special move",
+        "sMP or crMP xx DR, sHK, crHP xx special move (if standing) or sHP, bHP xx special move (if crouching)",
+        "crMK xx DR, crHP xx QCB+HP, QCB+MK or HK (if midscreen) or QCB+LP, DP+LP (if near corner)",
+        "DR sMP, sHP xx special move",
+        "DR crMP, crMK xx special move",
+        "DR sMK, crMK xx special move",
+        "DR crMK, sLK xx special move",
+        "DR fMP, sMP/crMP xx special move",
+        "Any cancellable heavy normal xx DR, sHK, crHP xx special move (if standing) or sHP, bHP xx special move (if crouching)"
+    ],
+    "denjinChargedHashogekiCombos": [
+        "Denjin Charged Hashogeki (Near corner) sMP/crMP/sHP/crHP/bHK xx DJ QCB+P, QCB+LP, DP+MP",
+        "crMP/sMP/sHP/crHP/bHK xx DJ QCB+P, DR crHP xx special move – Ryu’s main confirm after a DJ QCB+P connects"
+    ],
+    "levelOneSuperCombos": [
+        "Any cancellable normal xx QCFx2+P",
+        "sHK, QCFx2+P",
+        "(Midscreen) Any confirm into QCF+KK, QCFx2+P",
+        "(Near corner) Any confirm into QCF+PP/QCB+KK/DJ QCF+P, QCFx2+P"      
+    ],
+    "levelTwoSuperCombos": [
+        "Any cancellable normal xx QCBx2+P",
+        "(Midscreen) Any confirm into QCB+PP/QCF+PP xx QCBx2+P",
+        "(Midscreen) Any confirm into QCF+KK xx (Charged) QCBx2+P",
+        "(Near corner) Any confirm into QCB+KK xx QCBx2+P",
+        "Any confirm into DJ QCB+PP xx (Charged) QCBx2+P",
+        "(Near corner) Any confirm into DJ QCB+PP xx (Charged) QCBx2+P, DR crHP xx special move"      
+    ],
+    "levelThreeOrCriticalArtSuperCombos": [
+        "Any cancellable special move xx QCFx2+K",
+        "(Midscreen) Any confirm into QCF+KK, DP+HP/QCF+MK xx QCFx2+K",
+        "(Near corner) Any confirm into QCB+KK, QCFx2+K or QCF+LK/DP+HP xx QCFx2+K",
+        "(Near corner) Any confirm into QCB+KK, DR crMP xx QCB+MP, DP+HP xx QCFx2+K"              
+    ],
+    "counterhitCombos": [
+        "crLP/sLP (CH), sMP/crMP xx special move/DR",
+        "sMP (CH), crMK xx special move/DR",
+        "sHK (PC), sHP xx special move/DR",
+        "(Near corner) sHP (PC) xx QCF+HK, DP+LP",
+        "fMP (CH), sLP xx special move/DR"        
+    ],
+    "airToAirCombos": [
+        "jMP (2 hits), DP+HP or PP",
+        "jMP (2 hits) xx jQCB+HK or KK"
+    ]
+}
