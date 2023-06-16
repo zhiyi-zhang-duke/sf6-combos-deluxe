@@ -1,1 +1,54 @@
-{}
+{
+    "level3SuperCombosDrinkLvl0HeavySwaggerPunch": [
+        "Super, 214HP"
+    ],
+    "level3SuperCombosDrinkLvl1Advanced1BarDiveKick": [
+        "Super, DR ~ 2KK > jc, dl.jHK, rejump jMP > dl.214HK"
+    ],
+    "level3SuperCombosDrinkLvl2ODBakkai": [
+        "Super, (dl.)236KK"
+    ],
+    "level3SuperCombosDrinkLvl4HeavySwaggerHermitPunch": [
+        "Super, 214HP ~ 6P"
+    ],
+    "endersDrinkLvl0ArrowKick": [
+        "Any Attack > 623K"
+    ],
+    "endersDrinkLvl0FreeflowStrikes": [
+        "Light Attacks > 236LP/236PP > 6P > 6P",
+        "Medium Attacks / 5HP(2) > 236MP > 6P > 6P",
+        "Heavy Attacks / 5MK > 236HP > 6P > 6P"
+    ],
+    "endersDrinkLvl0FreeflowKicks": [
+        "Light Attacks > 236LP/236PP > 6K > 6K",
+        "Medium Attacks / 5HP(2) > 236MP > 6K > 6K",
+        "Heavy Attacks / 5MK > 236HP > 6K > 6K"
+    ],
+    "endersDrinkLvl0SwaggerStep": [
+        "Medium Attacks / 5HP > 214LP",
+        "5MK > 5HK > 214MP/214PP",
+        "2HP > 214HP"
+    ],
+    "endersDrinkLvl0PhantomSway": [
+        "PC 5MP / 2KK / (in corner) 214PP , 2HK > HK > P"
+    ],
+    "endersDrinkLvl2LuminousDiveKick": [
+        "j.MP > 214K"
+    ],
+    "endersDrinkLvl2Bakkai": [
+        "Medium Attacks > 236LK, 2HP / 5HK > 236HK / 236KK"
+    ],
+    "endersDrinkLvl4FreeflowStrikesKicks": [
+        "Light Attacks > 236LP/236PP ~ 6P/K ~ 6P/K",
+        "Medium Attacks/5HP(2) > 236MP ~ 6P/K ~ 6P/K",
+        "Heavy Attacks / 5MK > 236HP ~ 6P/K ~ 6/K"
+    ],
+    "endersDrinkLvl4SwaggerHermitPunch": [
+        "Medium Attacks / 5HP > 214LP",
+        "5MK / 5HK > 214MP/214PP",
+        "2HP > 214HP"
+    ],
+    "credits": [
+        "https://wiki.supercombo.gg/"
+    ]
+}

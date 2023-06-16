@@ -1,1 +1,30 @@
-{}
+{
+    "normalHitLightConfirm": [
+        "2LK, 2LP, (2LP) > 214LP~6P -- Light pressure and confirm string. Omit second 2LP if too far"
+    ],
+    "5MPTargetComboMeterlessConfirm": [
+        "5MP~MP > 236MP",
+        "5MP~MP > 214MP~6P -- 236MP ender does more damage, 214MP ender provides better oki midscreen"
+    ],
+    "5MPTargetComboMidscreenDriveCombos": [
+        "5MP~MP > 214PP~6P, 236HP (2 Drive)",
+        "5MP~MP > 214PP~6P, Parry Rush > 4HP > 623HP (3 Drive) -- BnB Combo. 623HP ender sets up for a safejump."
+    ],
+    "5MPTargetComboCornerDriveCombos": [
+        "5MP~MP > 214PP~6P, 2[HP], Parry Rush > 4HP > 623MP (3 Drive)",
+        "5MP~MP > 214PP~6P, 2[HP], Parry Rush > 4HP > 623PP, 4[HP] > 236HP (5 Drive) -- BnB Corner Combo. Uncharged 4HP can be replaced with 2MP for an easier link, in exchange for less damage. 2[HP] makes 623HP whiff in corner"
+    ],
+    "4HPMeterless": [
+        "4HP > 214HP~6P, 236HP -- Preferred meterless combo route"
+    ],
+    "4HPCornerMeterless": [
+        "4HP > 214HP~6P, 2[HP], 236HP -- Preferred meterless corner combo route"
+    ],
+    "4HPMidscreenDriveCombo": [
+        "4HP > 214HP~6P, Parry Rush > 4HP > 623HP (1 Drive) -- Good damage and safejump setup for 1 bar of drive"
+    ],
+    "4HPCornerDriveCombos": [
+        "4HP > 214HP~6P, 2[HP], Parry Rush, 4HP > 236HP (1 Drive)",
+        "4HP > 214HP~6P, 2[HP], Parry Rush, 4HP > 623PP, 4[HP] > 236HP (3 Drive) -- Preferred corner combo starter. Fantastic damage for a few bars of drive"
+    ]
+}

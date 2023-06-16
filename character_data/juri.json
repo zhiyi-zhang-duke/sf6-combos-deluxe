@@ -1,1 +1,24 @@
-{}
+{
+    "damageOptimalLinkEasy": [
+        "5MP, 2MP"
+    ],
+    "threeHitLightConfirm": [
+        "2LK > 2LP > 2LP"
+    ],
+    "twoHitSpacedLightConfirm": [
+        "5LP, 5LK"
+    ],
+    "pokeConversions": [
+        "2MP > Special",
+        "5HP > Special"
+    ],
+    "fiveMKIntoSuper": [
+        "PC 5MK, 236236K"
+    ],
+    "punishCounter": [
+        "PC 5MK, 236236K"
+    ],
+    "credits": [
+        "https://wiki.supercombo.gg/"
+    ]
+}

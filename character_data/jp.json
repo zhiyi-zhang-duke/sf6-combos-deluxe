@@ -1,1 +1,24 @@
-{}
+{
+    "breadAndButterCombosAnywhere": [
+        "2LK ~ 2LP ~ 2LP > 236LP",
+        "5HK, 2MP > 236MP",
+        "5HK ~ 5HP > 236MP",
+        "Drive Rush 2MK/6MK > 2MP > 236MP",
+        "Drive Impact(PC) > 236HP > 236MP > 22HP"
+    ],
+    "breadAndButterCombosCorner": [
+        "6HK > 236HP, 5HP > 22LP",
+        "Drive Impact > 6HK > 236MP > 5HP > 236MK",
+        "22KK(throw) > 2MP > 214HP > dl 22HP > 236MK > 22HP",
+        "22KK(throw) > 2MP > 214HP > 214HP(trigger) > walk forward 6HK > 236HP > 236MP > 22HP"
+    ],
+    "driveRushCombos": [
+        "5HK, 2MP > Drive Rush, 2HP > 236HP, 236MK, 22HP"
+    ],
+    "okizemeFocusedCombos": [
+        "Drive Impact > 6HK > 236MP > 5HP > 236KK > 22P > 214P(oki)"
+    ],
+    "credits": [
+        "https://wiki.supercombo.gg/"
+    ]
+}

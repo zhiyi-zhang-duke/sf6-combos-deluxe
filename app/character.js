@@ -62,7 +62,7 @@ export default function Character() {
     }    
       
     return (
-        <ScrollView>
+        <ScrollView style={styles.scrollview}>
             <View style={styles.container}>
             {data && (
             <>

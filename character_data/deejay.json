@@ -1,1 +1,73 @@
-{}
+{
+    "linksAndStartsNormalHit": [
+        "6MK, 5LK, 214LP > 214214P",
+        "6MK, 5LK > 214KK~HK"
+    ],
+    "counterHitSunriseHeel": [
+        "CH 6MK, 2MP, 214LP > 214214P",
+        "CH 6MK, 2MP > 214KK~HK, 236HK"
+    ],
+    "counterHit5HP": [
+        "CH 5HP, 2MP, 214LP > 214214P",
+        "CH 5HP, 2MP > 214KK~HK"
+    ],
+    "counterHit2HP": [
+        "CH 2HP, 2MP, 214LP > 214214P",
+        "CH 2HP, 2MP > 214KK~HK"
+    ],
+    "punishCounter2HP": [
+        "PC 2HP, 5HP, 214MP > 214214P",
+        "PC 2HP, 5HP > 214KK~HK"
+    ],
+    "endersODMaximumStrike": [
+        "236HKdl.Headliner Sunrise Festival~HP/HKDrive Rush > HP > 214HP > 214214HP"
+    ],
+    "punishesPunishCounter5LP": [
+        "5LP > 214LP > 214214P",
+        "5LP > 214KK~HK",
+        "5LP, 2HP, 2MP > Headliner Sunrise Festival~HP/HK",
+        "5LP, 2HP, 2MP > 236MK/HK",
+        "5LP, [2]HP, [2]MP > 6KK",
+        "5LP, 2HP, 2MP > Drive Rush > 5HP > 214HP",
+        "5LP, 2HP, 2MP > Drive Rush > 2HP, 5HP > 214MP > 214214P",
+        "5LP, 2HP, 2MP > Drive Rush > 2HP, 5HP > 214KK~HK"
+    ],
+    "punishesPunishCounter2LP5LK": [
+        "5LK > 214LP > 214214P",
+        "5LK > 214KK~HK",
+        "2LP, 2HP, 2MP > Headliner Sunrise Festival~HP/HK",
+        "2LP, 2HP, 2MP > 236MK/HK",
+        "2LP, [2]HP, [2]MP > 6KK",
+        "2LP, 2HP, 2MP > Drive Rush > 5HP > 214HP",
+        "2LP, 2HP, 2MP > Drive Rush > 2HP, 5HP > 214MP > 214214P",
+        "2LP, 2HP, 2MP > Drive Rush > 2HP, 5HP > 214KK~HK"
+    ],
+    "punishesPunishCounter2MP": [
+        "2MP > 214MP > 214214P",
+        "2MP > 214KK~HK",
+        "2MP, 2MP > Headliner Sunrise Festival~HP/HK",
+        "2MP, 2MP > Drive Rush > 5HP > 214HP",
+        "2MP, 2MP > Drive Rush > 2HP, 5HP> 214MP > 214214P",
+        "2MP, 2MP > Drive Rush > 2HP, 5HP > 214KK~HK"
+    ],
+    "punishesPunishCounter2HP": [
+        "2HP, 5HP > 214MP > 214214P",
+        "2HP, 5HP > 214KK~HK",
+        "2HP, 2HP, 2MP > Headliner Sunrise Festival~HP/HK",
+        "2HP, 2HP, 2MP > 236MK/HK",
+        "2HP, [2]HP, [2]MP > 6KK",
+        "2HP, 2HP, 2MP > Drive Rush > 5HP > 214HP",
+        "2HP, 2HP, 2MP > Drive Rush > 2HP, 5HP > 214MP > 214214P",
+        "2HP, 2HP, 2MP > Drive Rush > 2HP, 5HP > 214KK~HK"
+    ],
+    "antiAirFaceBreaker": [
+        "4HK"
+    ],
+    "antiAirJackknifeMaximum": [
+        "[2]8HK",
+        "[2]8MK, [2]8HK"
+    ],
+    "credits": [
+        "https://wiki.supercombo.gg/"
+    ]
+}

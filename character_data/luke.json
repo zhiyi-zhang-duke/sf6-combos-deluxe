@@ -51,5 +51,8 @@
         "(Midscreen) crHP xx PF QCB+MP, DR sHP xx PF QCB+LP, QCF+K, P or DR sHP xx PF QCB+HP",
         "(Near corner) crHP xx PF QCB+LP, DR sHP xx QCF+HP, DP + HP",
         "(Near corner) crHP xx PF QCB+LP, DR crHP xx QCF+KK, P, DP+MP"
-      ]      
+      ],
+      "credits": [
+          "https://dafeetlee.com/"
+      ]
 }

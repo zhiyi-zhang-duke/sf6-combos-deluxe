@@ -1,1 +1,18 @@
-{}
+{
+    "normalHitLightConfirm": [
+        "2LK > 5LP xx 214LK"
+    ],
+    "lightConfirmIntoHardKnockdown": [
+        "2LK > 5LP xx 214LK"
+    ],
+    "mediumConfirm": [
+        "2MP > 5LK xx 236LK"
+    ],
+    "jumpHardKickConfirm": [
+        "j.HK > 4HP xx 236MP"
+    ],
+    "punishCounterPC4HPStarterAntiDP": [
+        "PC4HP > 236PP xx HK > 4HP > 236HP",
+        "PC4HP > 236PP xx HK > 4HP > 236HK > 236LP"
+    ]
+}

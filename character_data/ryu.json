@@ -82,5 +82,8 @@
     "airToAirCombos": [
         "jMP (2 hits), DP+HP or PP",
         "jMP (2 hits) xx jQCB+HK or KK"
+    ],
+    "credits": [
+        "https://dafeetlee.com/"
     ]
 }
