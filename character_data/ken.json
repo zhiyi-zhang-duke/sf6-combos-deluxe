@@ -1,38 +1,32 @@
 {
-    "normalHitMeterlessLightConfirm": [
-        "2LK > 2LP > 5LP xx 623HP",
-        "5LP > 5LP > 5LP xx 623HP",
-        "2LP > 2LK > 5LP xx 623HP"
-    ],
-    "farLightConfirm": [
-        "2LP , 2LP, 5LK xx 623HP"
-    ],
-    "closeUpMidscreenStandMPLink": [
-        "2LP , 5MP > HP xx KK xx 623K , 623HP (Side Switch Max Damage, 2440)",
-        "2LP , 5MP > HP xx KK xx 214K (Corner Carry, 1640)",
-        "2LP , 5MP > HP xx KK xx 623P (Compromise of Damage and Corner Carry with no side swap, 2180)",
-        "2LP , 5MP xx 214LK xx 623MP (Max Damage, no side swap, 2310)"
-    ],
-    "closeUpCornerStandMPLink": [
-        "2LP , 5MP > HP xx 236MK > dl.6HK , 62 HP"
-    ],
-    "standHPEasierConfirm": [
-        "5HP xx 623HP"
-    ],
-    "standHPHarderConfirm": [
-        "5HP xx KK xx 623P"
-    ],
-    "maxDamageJumpInMidscreen": [
-        "J.HP , 2HP xx 214LK , 236MP"
-    ],
-    "maxDamageJumpInCorner": [
-        "J.HP , 2HP xx 236HK > dl.6LK, 236LK > 6LK, 623HP"
-    ],
-    "jinraiLoops": [
-        "Stand MP Jinrai Loop = 5MP > HP xx 236LK > dl.6LK , 236LK > 6LK , 623HP (2330)",
-        "HK Jinrai, Jinrai Loop = 236HK > dl.6LK , 236LK > 6LK , 623HP (2600)"
-    ],
-    "credits": [
-        "https://wiki.supercombo.gg/"
-    ]
+  "normalHitMeterlessLightConfirm": [
+    "2LK > 2LP > 5LP xx 623HP",
+    "5LP > 5LP > 5LP xx 623HP",
+    "2LP > 2LK > 5LP xx 623HP"
+  ],
+  "farLightConfirm": ["2LP , 2LP, 5LK xx 623HP"],
+  "closeUpMidscreenStandMPLink": [
+    "2LP , 5MP > HP xx KK xx 623K , 623HP (Side Switch Max Damage, 2440)",
+    "2LP , 5MP > HP xx KK xx 214K (Corner Carry, 1640)",
+    "2LP , 5MP > HP xx KK xx 623P (Compromise of Damage and Corner Carry with no side swap, 2180)",
+    "2LP , 5MP xx 214LK xx 623MP (Max Damage, no side swap, 2310)"
+  ],
+  "closeUpCornerStandMPLink": ["2LP , 5MP > HP xx 236MK > dl.6HK , 62 HP"],
+  "standHPEasierConfirm": ["5HP xx 623HP"],
+  "standHPHarderConfirm": ["5HP xx KK xx 623P"],
+  "maxDamageJumpInMidscreen": ["J.HP , 2HP xx 214LK , 236MP"],
+  "maxDamageJumpInCorner": ["J.HP , 2HP xx 236HK > dl.6LK, 236LK > 6LK, 623HP"],
+  "jinraiLoops": [
+    "Stand MP Jinrai Loop = 5MP > HP xx 236LK > dl.6LK , 236LK > 6LK , 623HP (2330)",
+    "HK Jinrai, Jinrai Loop = 236HK > dl.6LK , 236LK > 6LK , 623HP (2600)"
+  ],
+  "videos": [
+    "https://www.youtube.com/embed/IJkhRZ9jUko",
+    "https://www.youtube.com/embed/4JaPRMAft9Q",
+    "https://www.youtube.com/embed/b3BAxnaPBQQ",
+    "https://www.youtube.com/embed/Az4YPClSUG0",
+    "https://www.youtube.com/embed/PN_po0aX4Ek",
+    "https://www.youtube.com/embed/veKNYQs-1vY"
+  ],
+  "credits": ["https://wiki.supercombo.gg/"]
 }

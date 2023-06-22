@@ -1,68 +1,71 @@
 {
-    "linksAndStartsNormalHit": [
-        "2LK/2LP > 2LP > 214LP",
-        "2LK/2LP > 2LP > [4]6MP",
-        "2LK/2LP > 2LP > [2]8HK",
-        "(5LK,) 5LP > 5MP > 214HP",
-        "5LP > 5MP > [4]6HP",
-        "5LP > 5MP > 236K~P~P",
-        "5MP (close), 2LP > [4]6MP",
-        "5MP (close), 2LP > 214LP",
-        "5MP/2MP > [4]6HP",
-        "5HK(1) 236K~2P, 214HP/[4]6HP/[2]8HK",
-        "5HK (far) > 214HP",
-        "5HK (far) > 236K~P~P",
-        "5HP (close) > 214HP/236K~P~P/[4]6HP",
-        "2LK > 2LP > 22P > 214MP, 2LP > [4]6MP",
-        "5HP/2HP > 214HP, 2LP > [4]6MP/[2]8HK",
-        "5LP > 5MP > 214HP, [4]6MP/214MP/[2]8KK"
-    ],
-    "counterHits": [
-        "CH 5LP (+6), 5LP > 5MP > 214HP",
-        "CH 5MP (+6), 5LP > 5MP > 236K~P~P",
-        "CH 2MP (+5), 5LP > 5MP > 236K~P~P",
-        "CH 3HK (+5), 5LP > 5MP > 236K~P~P",
-        "CH 2HP (+5), 5LP > 5MP > 236K~P~P"
-    ],
-    "driveImpact": [
-        "DI Crumple, 5HK(1) > 236K~2P, [2]8HK/[4]6HP",
-        "DI Crumple, 5HK(1) > 236K~2P, e.214HP, [4]6HP",
-        "DI Wallsplat, 5HK(2) > 22P > e.214HP, [4]6HP/214MP",
-        "DI Stun, 22K, neutral jump j.8HP, land, 5HK(2) > 22P > e.214MP, 2LP > [4]6MP"
-    ],
-    "usingMeterODHands": [
-        "5MP/2MP > 214PP, 2LP 2LP > [2]8HK/[4]6HP",
-        "2LP > 2LP > 22P > e.214PP, 5LP > 5MP > 236K~P(~P)",
-        "5HP > e.214PP, 5LP > 5MP > 236K~P(~P)"
-    ],
-    "usingMeterODButtslam": [
-        "5HK(1) > 236K~2P, e.214HP, [2]8KK",
-        "[Corner Only] 5HK(1) >> 236K~2P, e.214HP, 214LP, [2]8KK"
-    ],
-    "usingMeterODSumoDash": [
-        "5HP > 236KK~2P > [2]8K",
-        "5HP > 236KK~2P > e.214HP, [4]6HP"
-    ],
-    "driveRushConfirms": [
-        "2LP > 2LP > 66 > 5LP, 5LP > 5MP > 236K~P(~P)",
-        "5MP/2MP > 66 > 5HK(2) > 236K~2P, etc.",
-        "5HK (far) > 66 > 5HK(2) > 236K~2P, etc."
-    ],
-    "rawDriveRush": [
-        "Drive Rush 2MK (+9), 5HK(1) > 236K~2P etc.",
-        "Drive Rush 5MP (+8), 5HK(1) > 236K~2P etc.",
-        "Drive Rush 2HP (+7), 5LP > 5MP > 236K~P(~P)",
-        "Drive Rush 3HK (+7), 5LP > 5MP > 236K~P(~P)",
-        "Drive Rush 6HK (+5), 5LP > 5MP > 236K~P(~P)"
-    ],
-    "comboingIntoSupers": [
-        "5HK(1) > 236K~2P, 236236P",
-        "5HK(1) > 236K~2P, e.214HP, 236236P",
-        "5HK (or anything) > 214PP > [4]646K",
-        "2LP > 2LP > 214LP > 214214P",
-        "5HK(1) > 236K~2P, 214HP > 214214P"
-    ],
-    "credits": [
-        "https://wiki.supercombo.gg/"
-    ]
+  "linksAndStartsNormalHit": [
+    "2LK/2LP > 2LP > 214LP",
+    "2LK/2LP > 2LP > [4]6MP",
+    "2LK/2LP > 2LP > [2]8HK",
+    "(5LK,) 5LP > 5MP > 214HP",
+    "5LP > 5MP > [4]6HP",
+    "5LP > 5MP > 236K~P~P",
+    "5MP (close), 2LP > [4]6MP",
+    "5MP (close), 2LP > 214LP",
+    "5MP/2MP > [4]6HP",
+    "5HK(1) 236K~2P, 214HP/[4]6HP/[2]8HK",
+    "5HK (far) > 214HP",
+    "5HK (far) > 236K~P~P",
+    "5HP (close) > 214HP/236K~P~P/[4]6HP",
+    "2LK > 2LP > 22P > 214MP, 2LP > [4]6MP",
+    "5HP/2HP > 214HP, 2LP > [4]6MP/[2]8HK",
+    "5LP > 5MP > 214HP, [4]6MP/214MP/[2]8KK"
+  ],
+  "counterHits": [
+    "CH 5LP (+6), 5LP > 5MP > 214HP",
+    "CH 5MP (+6), 5LP > 5MP > 236K~P~P",
+    "CH 2MP (+5), 5LP > 5MP > 236K~P~P",
+    "CH 3HK (+5), 5LP > 5MP > 236K~P~P",
+    "CH 2HP (+5), 5LP > 5MP > 236K~P~P"
+  ],
+  "driveImpact": [
+    "DI Crumple, 5HK(1) > 236K~2P, [2]8HK/[4]6HP",
+    "DI Crumple, 5HK(1) > 236K~2P, e.214HP, [4]6HP",
+    "DI Wallsplat, 5HK(2) > 22P > e.214HP, [4]6HP/214MP",
+    "DI Stun, 22K, neutral jump j.8HP, land, 5HK(2) > 22P > e.214MP, 2LP > [4]6MP"
+  ],
+  "usingMeterODHands": [
+    "5MP/2MP > 214PP, 2LP 2LP > [2]8HK/[4]6HP",
+    "2LP > 2LP > 22P > e.214PP, 5LP > 5MP > 236K~P(~P)",
+    "5HP > e.214PP, 5LP > 5MP > 236K~P(~P)"
+  ],
+  "usingMeterODButtslam": [
+    "5HK(1) > 236K~2P, e.214HP, [2]8KK",
+    "[Corner Only] 5HK(1) >> 236K~2P, e.214HP, 214LP, [2]8KK"
+  ],
+  "usingMeterODSumoDash": [
+    "5HP > 236KK~2P > [2]8K",
+    "5HP > 236KK~2P > e.214HP, [4]6HP"
+  ],
+  "driveRushConfirms": [
+    "2LP > 2LP > 66 > 5LP, 5LP > 5MP > 236K~P(~P)",
+    "5MP/2MP > 66 > 5HK(2) > 236K~2P, etc.",
+    "5HK (far) > 66 > 5HK(2) > 236K~2P, etc."
+  ],
+  "rawDriveRush": [
+    "Drive Rush 2MK (+9), 5HK(1) > 236K~2P etc.",
+    "Drive Rush 5MP (+8), 5HK(1) > 236K~2P etc.",
+    "Drive Rush 2HP (+7), 5LP > 5MP > 236K~P(~P)",
+    "Drive Rush 3HK (+7), 5LP > 5MP > 236K~P(~P)",
+    "Drive Rush 6HK (+5), 5LP > 5MP > 236K~P(~P)"
+  ],
+  "comboingIntoSupers": [
+    "5HK(1) > 236K~2P, 236236P",
+    "5HK(1) > 236K~2P, e.214HP, 236236P",
+    "5HK (or anything) > 214PP > [4]646K",
+    "2LP > 2LP > 214LP > 214214P",
+    "5HK(1) > 236K~2P, 214HP > 214214P"
+  ],
+  "videos": [
+    "https://www.youtube.com/embed/sKoUDii8Ozw",
+    "https://www.youtube.com/embed/bxHQ_wKhrH0",
+    "https://www.youtube.com/embed/rtLpALJikv0"
+  ],
+  "credits": ["https://wiki.supercombo.gg/"]
 }

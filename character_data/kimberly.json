@@ -1,56 +1,57 @@
 {
-    "normalHitLightConfirms": [
-        "2LK, 2LP, 5LP -- Low Starter",
-        "2LP, 5LP, 5LP -- 4f Starter",
-        "2LP, 2LP, 5LP, 5LK -- 4-hit String; 214K whiffs if cancelled"
-    ],
-    "mediumHeavyConfirms": [
-        "2MP, 5MP -- Most consistent hitconfirm route, but no frame trap on block",
-        "5HK, 5MP -- Slow but powerful link starter that's also +2 oB",
-        "2MK, 5LK -- Low starter that's also +1 oB",
-        "5HP > Special -- Can hitconfirm on its own with good reactions"
-    ],
-    "commandNormalConfirms": [
-        "j.2MP, 2LP/5LP -- Consistent Elbow Drop link even on standing opponent",
-        "4HK, 2LP -- The 2LP barely reaches after Overhead (may whiff if not started point blank)",
-        "3MK, 2LP/5LP -- At absolute max range, can link even after normal hit"
-    ],
-    "counterhitLightConfirms": [
-        "CH 2LP (+6), 2MP",
-        "CH 5LP (+7), 5MP~HP"
-    ],
-    "counterhitMediumHeavyConfirms": [
-        "CH 2MP (+9), 5HP",
-        "CH 2MK (+7), 5MP~HP -- can add 2MP vs. point blank crouching opponent",
-        "CH 2MK (+7), 2MK, 5LK -- 214K whiffs if cancelled",
-        "CH 5HK (+9), 5HP -- strong and easily confirmable",
-        "CH 4HK (+6), 2MP, 5MP~HP -- omit 2MP if not point blank"
-    ],
-    "punishCounterLightConfirms": [
-        "PC 2LP (+8), 5MK/5MP~HP -- 4f punish; 5MK has more consistent range",
-        "PC 5LP (+9), 5HP -- consistent 5f punish; preferred route",
-        "New Special Cancel routes: 5LK/5LP/2LP > 236K~MK, 5LK/5LP/2LP > 236PP"
-    ],
-    "punishCounterMediumHeavyConfirms": [
-        "PC 5HP > 214P, 5HP/5HK -- 9f punish, teleports to point blank",
-        "PC 5HP, 236K~P, 5HP/5HK -- Same as above, but Run~Stop to point blank",
-        "New Special Cancel routes: 2MP/5MP/5MK > 236HP -- meterless launch from a medium",
-        "Same as CH Routes: PC 5HK (+11), 5HP -- 12f punish, PC 2MP (+11), 5HP -- 6f punish"
-    ],
-    "punishCounterCommandNormalConfirms": [
-        "PC 3MK, 5MP~HP -- Important vs. fireball characters if well spaced up to +10 at perfect spacing",
-        "PC 6HK~Forward Hop, j.MK, 5HP"
-    ],
-    "driveImpactWallsplat": [
-        "2HP > 236K~LK, instant j.236P -- Meterless damage + corner oki",
-        "2HP > 236K~LK, 236LP > Lv.3 Super -- High damage route with resources"
-    ],
-    "driveImpactCrumple": [
-        "5HP > 236HP, 3MK, 214MK -- Midscreen damage + corner carry",
-        "5HK, 5MP~HP > 236K~MK ... -- Midscreen corner carry",
-        "5HP > 236HP, j.MP > j.214KK -- Strongest corner Spraycan setup"
-    ],
-    "credits": [
-        "https://wiki.supercombo.gg/"
-    ]
+  "normalHitLightConfirms": [
+    "2LK, 2LP, 5LP -- Low Starter",
+    "2LP, 5LP, 5LP -- 4f Starter",
+    "2LP, 2LP, 5LP, 5LK -- 4-hit String; 214K whiffs if cancelled"
+  ],
+  "mediumHeavyConfirms": [
+    "2MP, 5MP -- Most consistent hitconfirm route, but no frame trap on block",
+    "5HK, 5MP -- Slow but powerful link starter that's also +2 oB",
+    "2MK, 5LK -- Low starter that's also +1 oB",
+    "5HP > Special -- Can hitconfirm on its own with good reactions"
+  ],
+  "commandNormalConfirms": [
+    "j.2MP, 2LP/5LP -- Consistent Elbow Drop link even on standing opponent",
+    "4HK, 2LP -- The 2LP barely reaches after Overhead (may whiff if not started point blank)",
+    "3MK, 2LP/5LP -- At absolute max range, can link even after normal hit"
+  ],
+  "counterhitLightConfirms": ["CH 2LP (+6), 2MP", "CH 5LP (+7), 5MP~HP"],
+  "counterhitMediumHeavyConfirms": [
+    "CH 2MP (+9), 5HP",
+    "CH 2MK (+7), 5MP~HP -- can add 2MP vs. point blank crouching opponent",
+    "CH 2MK (+7), 2MK, 5LK -- 214K whiffs if cancelled",
+    "CH 5HK (+9), 5HP -- strong and easily confirmable",
+    "CH 4HK (+6), 2MP, 5MP~HP -- omit 2MP if not point blank"
+  ],
+  "punishCounterLightConfirms": [
+    "PC 2LP (+8), 5MK/5MP~HP -- 4f punish; 5MK has more consistent range",
+    "PC 5LP (+9), 5HP -- consistent 5f punish; preferred route",
+    "New Special Cancel routes: 5LK/5LP/2LP > 236K~MK, 5LK/5LP/2LP > 236PP"
+  ],
+  "punishCounterMediumHeavyConfirms": [
+    "PC 5HP > 214P, 5HP/5HK -- 9f punish, teleports to point blank",
+    "PC 5HP, 236K~P, 5HP/5HK -- Same as above, but Run~Stop to point blank",
+    "New Special Cancel routes: 2MP/5MP/5MK > 236HP -- meterless launch from a medium",
+    "Same as CH Routes: PC 5HK (+11), 5HP -- 12f punish, PC 2MP (+11), 5HP -- 6f punish"
+  ],
+  "punishCounterCommandNormalConfirms": [
+    "PC 3MK, 5MP~HP -- Important vs. fireball characters if well spaced up to +10 at perfect spacing",
+    "PC 6HK~Forward Hop, j.MK, 5HP"
+  ],
+  "driveImpactWallsplat": [
+    "2HP > 236K~LK, instant j.236P -- Meterless damage + corner oki",
+    "2HP > 236K~LK, 236LP > Lv.3 Super -- High damage route with resources"
+  ],
+  "driveImpactCrumple": [
+    "5HP > 236HP, 3MK, 214MK -- Midscreen damage + corner carry",
+    "5HK, 5MP~HP > 236K~MK ... -- Midscreen corner carry",
+    "5HP > 236HP, j.MP > j.214KK -- Strongest corner Spraycan setup"
+  ],
+  "videos": [
+    "https://www.youtube.com/embed/UbAG5GS2mSk",
+    "https://www.youtube.com/embed/S3Pqe5Mk45Q",
+    "https://www.youtube.com/embed/R1uG9D0pkRU",
+    "https://www.youtube.com/embed/o2nhq__oN_w"
+  ],
+  "credits": ["https://wiki.supercombo.gg/"]
 }

@@ -1,18 +1,17 @@
 {
-    "normalHitLightConfirm": [
-        "2LK > 5LP xx 214LK"
-    ],
-    "lightConfirmIntoHardKnockdown": [
-        "2LK > 5LP xx 214LK"
-    ],
-    "mediumConfirm": [
-        "2MP > 5LK xx 236LK"
-    ],
-    "jumpHardKickConfirm": [
-        "j.HK > 4HP xx 236MP"
-    ],
-    "punishCounterPC4HPStarterAntiDP": [
-        "PC4HP > 236PP xx HK > 4HP > 236HP",
-        "PC4HP > 236PP xx HK > 4HP > 236HK > 236LP"
-    ]
+  "normalHitLightConfirm": ["2LK > 5LP xx 214LK"],
+  "lightConfirmIntoHardKnockdown": ["2LK > 5LP xx 214LK"],
+  "mediumConfirm": ["2MP > 5LK xx 236LK"],
+  "jumpHardKickConfirm": ["j.HK > 4HP xx 236MP"],
+  "punishCounterPC4HPStarterAntiDP": [
+    "PC4HP > 236PP xx HK > 4HP > 236HP",
+    "PC4HP > 236PP xx HK > 4HP > 236HK > 236LP"
+  ],
+  "videos": [
+    "https://www.youtube.com/embed/gIQSc8Uwifo",
+    "https://www.youtube.com/embed/iuYdxATItY8",
+    "https://www.youtube.com/embed/B6qwSC76KRs",
+    "https://www.youtube.com/embed/0Nc0fn1zxcM"
+  ],
+  "credits": ["https://wiki.supercombo.gg/"]
 }

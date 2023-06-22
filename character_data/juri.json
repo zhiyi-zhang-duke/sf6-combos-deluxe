@@ -1,24 +1,15 @@
 {
-    "damageOptimalLinkEasy": [
-        "5MP, 2MP"
-    ],
-    "threeHitLightConfirm": [
-        "2LK > 2LP > 2LP"
-    ],
-    "twoHitSpacedLightConfirm": [
-        "5LP, 5LK"
-    ],
-    "pokeConversions": [
-        "2MP > Special",
-        "5HP > Special"
-    ],
-    "fiveMKIntoSuper": [
-        "PC 5MK, 236236K"
-    ],
-    "punishCounter": [
-        "PC 5MK, 236236K"
-    ],
-    "credits": [
-        "https://wiki.supercombo.gg/"
-    ]
+  "damageOptimalLinkEasy": ["5MP, 2MP"],
+  "threeHitLightConfirm": ["2LK > 2LP > 2LP"],
+  "twoHitSpacedLightConfirm": ["5LP, 5LK"],
+  "pokeConversions": ["2MP > Special", "5HP > Special"],
+  "fiveMKIntoSuper": ["PC 5MK, 236236K"],
+  "punishCounter": ["PC 5MK, 236236K"],
+  "videos": [
+    "https://www.youtube.com/embed/OtHB67UGVc0",
+    "https://www.youtube.com/embed/bYcrVMCacFk",
+    "https://www.youtube.com/embed/vcRJpCpO3us",
+    "https://www.youtube.com/embed/M0HBaiomCuI"
+  ],
+  "credits": ["https://wiki.supercombo.gg/"]
 }

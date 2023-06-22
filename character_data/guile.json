@@ -1,110 +1,109 @@
 {
-    "linksAndStartsNormalHit": [
-        "5MP, 2MP(~2MP) > 28HK"
-    ],
-    "lowLightConfirm": [
-        "2LK, 2LP, 5LK"
-    ],
-    "lightConfirm": [
-        "2LP > 2LP xx 28HK",
-        "2LK > 2LP xx 28HK",
-        "2LP > 2LP xx 46HP",
-        "2LK > 2LP xx 46HP",
-        "2LP > 5LK xx 28HK",
-        "2LP > 5LK xx 46HP",
-        "5LK xx 28HK",
-        "5LK xx 46HP"
-    ],
-    "lightCounterConfirm": [
-        "2LP,2MP xx 28HK",
-        "2LP,2MP~MP xx 28HK",
-        "2LP,2MP xx 46HP",
-        "2LP,2MP~MP xx 46HP",
-        "2LP,5MP,2MP xx 28HK",
-        "2LP,5MP,2MP~MP xx 28HK",
-        "2LP,5MP,2MP xx 46HP",
-        "2LP,5MP,2MP~MP xx 46HP",
-        "2LP,5MP~4HP xx 46HP",
-        "2LP,5MP~4HP xx 28HK"
-    ],
-    "midConfirm": [
-        "2MP xx 28 HK",
-        "2MP~MP xx 28 HK",
-        "2MP xx 46 HP",
-        "2MP~MP xx 46 HP",
-        "5MP~4HP xx 46 HP",
-        "5MP~4HP xx 28 HK",
-        "5MP,2MP xx 28 HK",
-        "5MP,2MP~MP xx 28 HK",
-        "5MP,2MP xx 46 HP",
-        "5MP,2MP~MP xx 46 HP",
-        "5MK,2LP xx 28 HK",
-        "5MK,2LP xx 46 HP",
-        "4/6MK,2LP xx 28 HK",
-        "4/6MK,2LP xx 46 HP"
-    ],
-    "midCounterConfirm": [
-        "2MP > 5MP > 2MP xx 28HK",
-        "2MP > 5MP > 2MP~MP xx 28HK",
-        "2MP > 5MP > 2MP xx 46HP",
-        "2MP > 5MP > 2MP~MP xx 46HP",
-        "2MP > 5MP~4HP xx 46HP",
-        "2MP > 5MP~4HP xx 28HK",
-        "5MP > 5MP~4HP xx 46HP",
-        "5MP > 5MP~4HP xx 28HK",
-        "5MP > 5MP > 2MP xx 28HK",
-        "5MP > 5MP > 2MP~MP xx 28HK",
-        "5MP > 5MP > 2MP xx 46HP",
-        "5MP > 5MP > 2MP~MP xx 46HP",
-        "5MK > 2MP xx 28HK",
-        "5MK > 2MP~MP xx 28HK",
-        "5MK > 2MP xx 46HP",
-        "5> MK > 2MP~MP xx 46HP",
-        "4/6MK > 2MP xx 28HK",
-        "4/6MK > 2MP~MP xx 28HK",
-        "4/6MK > 2MP xx 46HP",
-        "4/6MK > 2MP~MP xx 46HP"
-    ],
-    "heavyConfirm": [
-        "5HP xx 28HK",
-        "5HP xx 46HP",
-        "4HP xx 28HK",
-        "4HP xx 46HP",
-        "6HP > 2LP > 2LP xx 28HK",
-        "6HP > 2LP > 2LP xx 46HP"
-    ],
-    "simple4FPunishes": [
-        "2LP, 2MP(~2MP) > 28HK",
-        "2LP, 5MP, 2MP > 28HK",
-        "2LP, 2MP, 28HK > SU3"
-    ],
-    "4FDriveRushOpener": [
-        "2LP, 5HP > DR~6MK, ...",
-        "2LP, 5HP > DR~2HP, ...",
-        "2LP, 5HP > DR~5HP, ..."
-    ],
-    "simple6FPunishes": [
-        "2MP, 2MP(~2MP) > 28HK",
-        "2MP, 5MP, 2MP > 28HK",
-        "2MP, 2MP, 28HK > SU3"
-    ],
-    "6FDriveRushOpener": [
-        "2MP, 5HP > DR~6MK, ...",
-        "2MP, 5HP > DR~2HP, ...",
-        "2MP, 5HP > DR~5HP, ..."
-    ],
-    "simple7FPunishes": [
-        "5HP, microwalk~5MP, 2MP > 28HK",
-        "5HP, microwalk~5MP, 2MP > 28H",
-        "5HP, 5HP > SU2, 4HP > 46P~P~P~P~P",
-        "[4]MP, 4HP > HP SU1, 28KK"
-    ],
-    "7FDriveRushOpener": [
-        "5HP, 5HP > DR~6MK, ...",
-        "5HP, 5HP > DR~2HP, ...",
-        "5HP, 5HP > DR~5HP, ..."
-    ],
-    "credits": [
-        "https://wiki.supercombo.gg/"
-    ]
+  "linksAndStartsNormalHit": ["5MP, 2MP(~2MP) > 28HK"],
+  "lowLightConfirm": ["2LK, 2LP, 5LK"],
+  "lightConfirm": [
+    "2LP > 2LP xx 28HK",
+    "2LK > 2LP xx 28HK",
+    "2LP > 2LP xx 46HP",
+    "2LK > 2LP xx 46HP",
+    "2LP > 5LK xx 28HK",
+    "2LP > 5LK xx 46HP",
+    "5LK xx 28HK",
+    "5LK xx 46HP"
+  ],
+  "lightCounterConfirm": [
+    "2LP,2MP xx 28HK",
+    "2LP,2MP~MP xx 28HK",
+    "2LP,2MP xx 46HP",
+    "2LP,2MP~MP xx 46HP",
+    "2LP,5MP,2MP xx 28HK",
+    "2LP,5MP,2MP~MP xx 28HK",
+    "2LP,5MP,2MP xx 46HP",
+    "2LP,5MP,2MP~MP xx 46HP",
+    "2LP,5MP~4HP xx 46HP",
+    "2LP,5MP~4HP xx 28HK"
+  ],
+  "midConfirm": [
+    "2MP xx 28 HK",
+    "2MP~MP xx 28 HK",
+    "2MP xx 46 HP",
+    "2MP~MP xx 46 HP",
+    "5MP~4HP xx 46 HP",
+    "5MP~4HP xx 28 HK",
+    "5MP,2MP xx 28 HK",
+    "5MP,2MP~MP xx 28 HK",
+    "5MP,2MP xx 46 HP",
+    "5MP,2MP~MP xx 46 HP",
+    "5MK,2LP xx 28 HK",
+    "5MK,2LP xx 46 HP",
+    "4/6MK,2LP xx 28 HK",
+    "4/6MK,2LP xx 46 HP"
+  ],
+  "midCounterConfirm": [
+    "2MP > 5MP > 2MP xx 28HK",
+    "2MP > 5MP > 2MP~MP xx 28HK",
+    "2MP > 5MP > 2MP xx 46HP",
+    "2MP > 5MP > 2MP~MP xx 46HP",
+    "2MP > 5MP~4HP xx 46HP",
+    "2MP > 5MP~4HP xx 28HK",
+    "5MP > 5MP~4HP xx 46HP",
+    "5MP > 5MP~4HP xx 28HK",
+    "5MP > 5MP > 2MP xx 28HK",
+    "5MP > 5MP > 2MP~MP xx 28HK",
+    "5MP > 5MP > 2MP xx 46HP",
+    "5MP > 5MP > 2MP~MP xx 46HP",
+    "5MK > 2MP xx 28HK",
+    "5MK > 2MP~MP xx 28HK",
+    "5MK > 2MP xx 46HP",
+    "5> MK > 2MP~MP xx 46HP",
+    "4/6MK > 2MP xx 28HK",
+    "4/6MK > 2MP~MP xx 28HK",
+    "4/6MK > 2MP xx 46HP",
+    "4/6MK > 2MP~MP xx 46HP"
+  ],
+  "heavyConfirm": [
+    "5HP xx 28HK",
+    "5HP xx 46HP",
+    "4HP xx 28HK",
+    "4HP xx 46HP",
+    "6HP > 2LP > 2LP xx 28HK",
+    "6HP > 2LP > 2LP xx 46HP"
+  ],
+  "simple4FPunishes": [
+    "2LP, 2MP(~2MP) > 28HK",
+    "2LP, 5MP, 2MP > 28HK",
+    "2LP, 2MP, 28HK > SU3"
+  ],
+  "4FDriveRushOpener": [
+    "2LP, 5HP > DR~6MK, ...",
+    "2LP, 5HP > DR~2HP, ...",
+    "2LP, 5HP > DR~5HP, ..."
+  ],
+  "simple6FPunishes": [
+    "2MP, 2MP(~2MP) > 28HK",
+    "2MP, 5MP, 2MP > 28HK",
+    "2MP, 2MP, 28HK > SU3"
+  ],
+  "6FDriveRushOpener": [
+    "2MP, 5HP > DR~6MK, ...",
+    "2MP, 5HP > DR~2HP, ...",
+    "2MP, 5HP > DR~5HP, ..."
+  ],
+  "simple7FPunishes": [
+    "5HP, microwalk~5MP, 2MP > 28HK",
+    "5HP, microwalk~5MP, 2MP > 28H",
+    "5HP, 5HP > SU2, 4HP > 46P~P~P~P~P",
+    "[4]MP, 4HP > HP SU1, 28KK"
+  ],
+  "7FDriveRushOpener": [
+    "5HP, 5HP > DR~6MK, ...",
+    "5HP, 5HP > DR~2HP, ...",
+    "5HP, 5HP > DR~5HP, ..."
+  ],
+  "videos": [
+    "https://www.youtube.com/embed/k3VLb32_uS4",
+    "https://www.youtube.com/embed/tYrcEe03_-k",
+    "https://www.youtube.com/embed/BIfcS9QUdaY"
+  ],
+  "credits": ["https://wiki.supercombo.gg/"]
 }

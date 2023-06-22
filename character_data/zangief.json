@@ -1,1 +1,43 @@
-{}
+{
+  "meterlessCombos": [
+    "2LK > 2LP > PP",
+    "2LK > 2LP > > 5LP > PPP",
+    "2MP > PPP",
+    "5HK, SA1",
+    "j.8HP, j.360KK",
+    "6HK, 3MP, PPP, (tk j.360KK)",
+    "4HP > 214HP~6P, 2[HP], 236HP",
+    "4HP > 214HP~6P, Parry Rush > 4HP > 623HP (1 Drive)",
+    "4HP > 214HP~6P, 2[HP], Parry Rush, 4HP > 236HP (1 Drive)",
+    "4HP > 214HP~6P, 2[HP], Parry Rush, 4HP > 623PP, 4[HP] > 236HP (3 Drive)"
+  ],
+  "driveRush": [
+    "5LP/2LP > DR~2LP, 2MP > PP",
+    "2MP > DR~5MP > 5MP > 5MP",
+    "6HP > DR~6HP, 3MP > PP",
+    "6HP > DR~5HK, 3MP > PP"
+  ],
+  "sa2Combos": [
+    "6HP > SA2[P], jump j.360KK",
+    "6HP > SA2[P], dash, 3MP, tk j.360KK",
+    "6HP > SA2[P], dash, 3MP > 236236K"
+  ],
+  "driveImpact": [
+    "DI, 360HP/360PP",
+    "DI, 63214HK/KK",
+    "DI, SA3",
+    "DI, 6HP > PP/PPP",
+    "DI, 6HP > SA2, etc.",
+    "DI, neutral jump j.8HP, land DR~3MP > PP",
+    "DI, dl.3MP > PPP, tk j.360KK",
+    "DI, 6HP > DR~5HK, 3MP > SA2, tk j.360KK",
+    "DI, 6HP > DR~5HK, 3MP > SA2, 3MP > SA1"
+  ],
+  "videos": [
+    "https://www.youtube.com/embed/SwajlhNpTcs",
+    "https://www.youtube.com/embed/NQHi03WjQZU",
+    "https://www.youtube.com/embed/nSRDhJbVqws",
+    "https://www.youtube.com/embed/kO6Jrau2ZNU"
+  ],
+  "credits": ["https://wiki.supercombo.gg"]
+}
